@@ -100,53 +100,6 @@ You have three options from here:
 
 ---
 
-## Going Deeper: The Technical Playbook
-
-This guide taught you how to build from zero. The **Vibe Coding Builder's Technical Playbook** teaches you how to build *fast* and build *production-ready*.
-
-**What the Playbook covers:**
-
-**Advanced Patterns:**
-- Real-time collaboration (like Google Docs)
-- Background jobs and cron scheduling
-- Webhooks and third-party integrations
-- File processing at scale
-- Search and filtering optimization
-
-**Architecture Decisions:**
-- When to use server vs client components
-- How to structure your database for scale
-- When to split into microservices
-- Caching strategies
-- Performance optimization
-
-**Production Skills:**
-- Monitoring and error tracking
-- Analytics and user behavior
-- A/B testing
-- Feature flags
-- CI/CD pipelines
-
-**Monetization:**
-- Stripe subscriptions deep dive
-- Usage-based billing
-- Multi-tenant architecture
-- Team accounts and permissions
-- Admin dashboards
-
-**Developer Workflows:**
-- Testing strategies for vibe coders
-- Database migrations
-- Managing multiple environments
-- Team collaboration
-- Code review with AI
-
-**This is for builders who've shipped** and want to level up. If you've completed this guide and built something, you're ready.
-
-**Available at:** buildtolaunch.substack.com/technical-playbook
-
----
-
 ## Join the Build to Launch Community
 
 **You're not learning in isolation.**
@@ -170,7 +123,6 @@ This guide taught you how to build from zero. The **Vibe Coding Builder's Techni
 - Community showcases
 
 **Plus access to:**
-- Builder Discord community
 - Monthly office hours with me
 - Templates and boilerplates
 - Exclusive deals on tools
@@ -181,7 +133,7 @@ This guide taught you how to build from zero. The **Vibe Coding Builder's Techni
 **Subscribe at:** buildtolaunch.substack.com
 
 **Free tier:** Weekly tips and case studies
-**Premium tier:** $9/month - Everything plus templates, community, office hours
+**Premium tier:** $90/year - Everything plus templates, community, office hours
 
 ---
 
@@ -384,14 +336,12 @@ The difference between people who build once and people who build careers is con
 ### Learning Resources
 
 **This guide** - Foundation
-**Technical Playbook** - Advanced patterns (buildtolaunch.substack.com/playbook)
 **Next.js Docs** - When you need specific Next.js info (nextjs.org/docs)
 **Supabase Docs** - When you need database help (supabase.com/docs)
 **Tailwind Docs** - When you need specific styling (tailwindcss.com/docs)
 
 ### Communities
 
-**Build to Launch Discord** - Other vibe coders
 **r/SideProject** - Share what you're building
 **Indie Hackers** - Founders building in public
 **Next.js Discord** - Technical Next.js help
@@ -498,8 +448,6 @@ I'm excited to see what you create.
 ## Quick Links
 
 📬 **Newsletter:** buildtolaunch.substack.com
-📚 **Technical Playbook:** buildtolaunch.substack.com/playbook  
-💬 **Discord Community:** [Link in newsletter]
 🐦 **Twitter:** @buildtolaunch
 📧 **Email:** jenny@buildtolaunch.com
 
@@ -549,7 +497,7 @@ Thank you for reading. Now go ship.
 ## Connect & Share
 
 💌 **Newsletter**: [Build to Launch](https://buildtolaunch.substack.com) - Weekly AI building tips, templates, and real builder stories
-💬 **Reddit**: [r/VibeCodingBuilders](https://www.reddit.com/r/VibeCodingBuilders/) - Join the community
-✍️ **Medium**: [AI Builders](https://medium.com/ai-builders) - Read more articles
+
 🦋 **Bluesky**: [@jenny-ouyang](https://bsky.app/profile/jenny-ouyang.bsky.social) - Daily insights
+
 💼 **LinkedIn**: [Jenny Ouyang](https://www.linkedin.com/in/jenny-ouyang/) - Professional network

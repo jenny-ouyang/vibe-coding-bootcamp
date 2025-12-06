@@ -419,8 +419,6 @@ EXAMPLE 1: USER LOGIN STATUS
          │                                    │
          │          user clicks logout        │
          └────────────────────────────────────┘
-
-
 EXAMPLE 2: BLOG POST STATUS
 ────────────────────────────────────────────────────────────────────────
   ┌────────┐   author      ┌────────┐   author     ┌──────────┐
@@ -433,8 +431,6 @@ EXAMPLE 2: BLOG POST STATUS
      │                                                    │
      │          author unpublishes post                  │
      └───────────────────────────────────────────────────┘
-
-
 EXAMPLE 3: ORDER LIFECYCLE
 ────────────────────────────────────────────────────────────────────────
   ┌─────────┐  customer   ┌─────────┐  payment  ┌─────────┐  item
@@ -637,8 +633,6 @@ Try uploading an image - does it work?
     │ ❌ Issue? Back   │◄────────────│ • File handling  │
     │    to iterate    │             │ • Storage setup  │
     └──────────────────┘             └──────────────────┘
-
-
 ┌─────────────────────────────────────────────────────────────────────┐
 │ KEY INSIGHT: You never leave this loop                             │
 │                                                                     │
@@ -705,7 +699,7 @@ Ready to choose your tools and stack? Let's make some decisions.
 ## Connect & Share
 
 💌 **Newsletter**: [Build to Launch](https://buildtolaunch.substack.com) - Weekly AI building tips, templates, and real builder stories
-💬 **Reddit**: [r/VibeCodingBuilders](https://www.reddit.com/r/VibeCodingBuilders/) - Join the community
-✍️ **Medium**: [AI Builders](https://medium.com/ai-builders) - Read more articles
+
 🦋 **Bluesky**: [@jenny-ouyang](https://bsky.app/profile/jenny-ouyang.bsky.social) - Daily insights
+
 💼 **LinkedIn**: [Jenny Ouyang](https://www.linkedin.com/in/jenny-ouyang/) - Professional network

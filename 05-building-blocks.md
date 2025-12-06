@@ -643,7 +643,7 @@ Now let's talk about what happens when things don't work as expected.
 ## Connect & Share
 
 💌 **Newsletter**: [Build to Launch](https://buildtolaunch.substack.com) - Weekly AI building tips, templates, and real builder stories
-💬 **Reddit**: [r/VibeCodingBuilders](https://www.reddit.com/r/VibeCodingBuilders/) - Join the community
-✍️ **Medium**: [AI Builders](https://medium.com/ai-builders) - Read more articles
+
 🦋 **Bluesky**: [@jenny-ouyang](https://bsky.app/profile/jenny-ouyang.bsky.social) - Daily insights
+
 💼 **LinkedIn**: [Jenny Ouyang](https://www.linkedin.com/in/jenny-ouyang/) - Professional network

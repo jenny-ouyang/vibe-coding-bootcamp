@@ -88,7 +88,7 @@ Graduating to more complex builds, joining the community, and accessing advanced
 Browse the chapters directly in this repository. Each chapter is a separate markdown file you can read in order.
 
 ### Option 2: Download PDF
-Get the complete guide as a professionally formatted PDF from [Gumroad](https://gumroad.com/jennyouyang) (pay what you want, starting at $0).
+Get the complete guide as a professionally formatted PDF from [GitHub Releases](https://github.com/jenny-ouyang/vibe-coding-bootcamp/releases) (free download).
 
 ### Option 3: Follow Along
 The best way to learn is by doing. Open the guide alongside your code editor and build the projects as you read.
@@ -126,9 +126,7 @@ Get weekly AI building tips, prompt templates, and real builder interviews:
 
 ### Share Your Builds
 Built something with this guide? Share it!
-- Post in [r/VibeCodingBuilders](https://www.reddit.com/r/VibeCodingBuilders/) on Reddit
 - Share on [Bluesky](https://bsky.app/profile/jenny-ouyang.bsky.social)
-- Write about it on [Medium](https://medium.com/ai-builders)
 - Open a discussion in this repo
 - Submit your story to be featured
 
@@ -154,7 +152,7 @@ Available to [Build to Launch](https://buildtolaunch.substack.com) premium subsc
 
 Her mission: help domain experts turn their ideas into reality without spending years learning to code.
 
-🔗 [Newsletter](https://buildtolaunch.substack.com) | [Reddit](https://www.reddit.com/r/VibeCodingBuilders/) | [Medium](https://medium.com/ai-builders) | [Bluesky](https://bsky.app/profile/jenny-ouyang.bsky.social) | [LinkedIn](https://www.linkedin.com/in/jenny-ouyang/)
+🔗 [Newsletter](https://buildtolaunch.substack.com) | [Bluesky](https://bsky.app/profile/jenny-ouyang.bsky.social) | [LinkedIn](https://www.linkedin.com/in/jenny-ouyang/)
 
 ## Contributing
 
