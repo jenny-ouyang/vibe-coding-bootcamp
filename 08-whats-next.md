@@ -1,4 +1,4 @@
-# Chapter 7: What's Next
+# Chapter 8: What's Next
 
 > "You've learned to build. Now learn to ship consistently."
 
