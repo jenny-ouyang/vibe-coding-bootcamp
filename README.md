@@ -164,7 +164,7 @@ Found a typo? Have a suggestion? Want to add an example?
 2. Make your changes
 3. Submit a pull request
 
-All contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+All contributions welcome!
 
 ## License
 
@@ -173,7 +173,7 @@ This guide is released under [MIT License](LICENSE). Free to use, share, and mod
 ## Changelog
 
 - **v1.0** (December 2025) - Initial release
-- See [CHANGELOG.md](CHANGELOG.md) for detailed version history
+- See [Releases](https://github.com/jenny-ouyang/vibe-coding-bootcamp/releases) for version history
 
 ---
 
