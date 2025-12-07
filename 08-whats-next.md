@@ -141,9 +141,9 @@ When you're building real products with paying customers, you need more than "de
 
 **That's production-level complexity.** The 7-phase methodology makes it manageable.
 
-### The Production Playbook (Coming Soon)
+### The Production Playbook
 
-I'm creating a comprehensive playbook for builders who completed this free guide and want to ship production-grade AI products:
+A comprehensive playbook for builders who completed this free guide and want to ship production-grade AI products:
 
 **What's included:**
 - Complete 7-Phase Build Flow methodology with templates
@@ -156,11 +156,9 @@ I'm creating a comprehensive playbook for builders who completed this free guide
 
 **Who it's for:** Builders who finished this guide and want to ship apps with paying customers, not just portfolio projects.
 
-**Price:** $29-49 (early bird pricing for newsletter subscribers)
+**Price:** $29-49 (pricing for newsletter subscribers)
 
-**Availability:** Early 2025
-
-Want early access? Subscribe to the Build to Launch newsletter and I'll notify you when it launches.
+Learn more at buildtolaunch.substack.com
 
 ---
 
