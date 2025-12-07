@@ -93,10 +93,18 @@ graph TD
 **With AI:** 2-4 hours to have something live
 
 ### Cost Breakdown
+**Infrastructure:**
 - Hosting: $0 (Netlify or Vercel free tier)
-- Domain: $10-15/year (varies by extension)
-- Tools: $0 (all free)
-**Total: ~$12/year**
+- Domain: $13-15/year (optional - can use free subdomain initially)
+
+**AI Tools (essential for vibe coding):**
+- Claude Pro or ChatGPT Plus: $240/year ($20/month)
+- Cursor Pro (optional): $240/year ($20/month) - free tier available
+
+**Realistic Total:**
+- Learning (free tiers): ~$0-15/year (just domain)
+- Building (one AI tool): ~$253-268/year
+- Optimal (both AI tools): ~$493-508/year
 
 ### Example Prompts
 "Create a personal portfolio site with an about section, project showcase, and contact form"
@@ -155,17 +163,32 @@ graph TD
 **With AI:** 4-8 hours for a working app with login and database
 
 ### Cost Breakdown (Starting Out)
+**Infrastructure:**
 - Next.js: $0 (free framework)
 - Supabase: $0 (free tier: 500MB database, 2 active projects)
 - Vercel: $0 (free tier: 100GB bandwidth, unlimited projects)
-- Domain: $10-15/year (varies by extension, e.g., .com)
-**Total: ~$12/year**
+- Domain: $13-15/year (optional - can use free subdomain initially)
 
-### Cost Breakdown (With Growth)
-- Supabase Pro: $25/month (8GB database, auto-scaling, daily backups)
-- Vercel: $0 (hobby tier is generous; Pro at $20/month if needed)
-- Domain: $10-15/year
-**Total: ~$300-350/year** (only when you exceed free tier limits)
+**AI Tools (essential for vibe coding):**
+- Claude Pro or ChatGPT Plus: $240/year ($20/month)
+- Cursor Pro (optional): $240/year ($20/month) - free tier available
+
+**Realistic Total:**
+- Learning (free tiers): ~$0-15/year
+- Building (one AI tool): ~$253-268/year
+- Optimal (both AI tools): ~$493-508/year
+
+### Cost Breakdown (With Growth - 100+ users)
+**Infrastructure:**
+- Supabase Pro: $300/year ($25/month for 8GB, auto-scaling, daily backups)
+- Vercel: $0-240/year (hobby tier often sufficient; Pro $20/month if needed)
+- Domain: $13-15/year
+
+**AI Tools (same as above):**
+- Claude Pro or ChatGPT Plus: $240/year
+- Cursor Pro (optional): $240/year
+
+**Total:** ~$553-808/year (infrastructure scales with usage, AI tools stay constant)
 
 ### Why This Stack
 
@@ -231,11 +254,19 @@ graph TD
 **With AI:** 6-10 hours for a working API
 
 ### Cost Breakdown (Starting Out)
-- Railway: $5 free trial credit (30 days), then usage-based
-- Railway ongoing: ~$5-10/month (includes database + hosting)
-- Oracle Cloud: $0 (free tier available, good for learning)
-- Domain: $10-15/year
-**Total: ~$60-135/year** (depending on hosting choice)
+**Infrastructure:**
+- Railway: $5 trial credit (30 days), then ~$5-10/month (includes database + hosting)
+- Oracle Cloud: $0 (free tier alternative, good for learning)
+- Domain: $13-15/year (optional initially)
+
+**AI Tools (essential for vibe coding):**
+- Claude Pro or ChatGPT Plus: $240/year ($20/month)
+- Cursor Pro (optional): $240/year ($20/month) - free tier available
+
+**Realistic Total:**
+- Learning (Oracle free tier): ~$253-268/year (AI tool + domain)
+- Building (Railway): ~$313-388/year (AI tool + Railway + domain)
+- Optimal (both AI tools + Railway): ~$553-628/year
 
 ### Why This Stack
 
@@ -284,9 +315,9 @@ graph TD
     │  React +       │  │    COMMON      │  │  Flask +       │
     │  Netlify       │  │                │  │  PostgreSQL    │
     │                │  │  Next.js +     │  │                │
-    │  Cost: $12/yr  │  │  Supabase      │  │  Cost: $60/yr  │
+    │  Cost: $253+/yr│  │  Supabase      │  │  Cost: $313+/yr│
     │  Time: 2-4hrs  │  │                │  │  Time: 6-10hrs │
-    │                │  │  Cost: $12/yr  │  │                │
+    │                │  │  Cost: $253+/yr│  │                │
     │                │  │  Time: 4-8hrs  │  │                │
     └───────┬────────┘  └───────┬────────┘  └───────┬────────┘
             │                   │                    │
@@ -425,13 +456,12 @@ Pick one. I recommend Claude because:
 - Stronger at code generation
 - (You're already reading this in Claude!)
 
-**Pricing (verified December 2025):**
-- Claude Pro: $20/month (or $18/month billed annually at $216/year)
+**Pricing (verified December 2024):**
+- Claude Pro: $20/month (or $17/month billed annually at $200/year)
 - ChatGPT Plus: $20/month (monthly billing only)
-- Free tiers available for both (limited usage)
+- Free tiers available for both (limited usage, good for initial learning)
 
-**Starting tip:** Use free tiers first to learn, then upgrade when you hit limits.
-Worth upgrading? Absolutely. The paid tier is your co-developer with 5x more capacity.
+**Starting tip:** Free tiers work for learning (1-2 weeks), but for actual building you'll need Pro. Budget $20-40/month for AI tools as essential infrastructure, not optional extras.
 
 ### 2. Code Editor (Required)
 **Cursor** (AI-powered code editor)
@@ -441,13 +471,13 @@ Why Cursor specifically:
 - Can make changes across multiple files
 - Accepts natural language commands
 
-**Pricing (verified December 2025):**
-- Free tier: ~2,000 completions + 50 premium requests/month, plus 2-week Pro trial
-- Pro: $20/month (includes $20 of API usage credits)
-- Most users stay on free tier for learning
+**Pricing (verified December 2024):**
+- Free tier: ~2,000 completions + 50 premium requests/month (enough for learning)
+- 2-week Pro trial included
+- Pro: $20/month (unlimited basic completions + priority access)
+- Pro+: $60/month (truly unlimited, for heavy users)
 
-**Starting tip:** Start with the free tier + 2-week trial. Upgrade to Pro when you're building daily.
-Alternative: VS Code with GitHub Copilot (but Cursor is better for beginners)
+**Starting tip:** Free tier works for first 2-3 weeks. Upgrade to Pro ($20/month) once you're building daily. Budget this as essential infrastructure.
 
 ### 3. Version Control (Required)
 **GitHub**
@@ -534,96 +564,119 @@ Perfect choice paralysis beats imperfect shipped product every time. Choose and 
 
 ---
 
-## Complete Pricing Breakdown (Verified December 2025)
+## Complete Pricing Breakdown (Verified December 2024)
 
-Understanding real costs helps you plan. Here's everything broken down clearly:
+Understanding real costs helps you plan. Here's everything broken down honestly:
 
-### Tool Costs (One-time per person, regardless of project)
+### AI Tools (Essential for Vibe Coding)
 
-**AI Assistant:**
-- Claude Pro: $20/month or $18/month annually ($216/year)
-- ChatGPT Plus: $20/month
-- Free tier: Available for both (limited usage, good for learning)
+**These are NOT optional - they're your development team.**
+
+**AI Assistant (Pick one):**
+- Claude Pro: $20/month or $17/month annually ($200/year)
+- ChatGPT Plus: $20/month (no annual option)
+- Free tiers: Available for learning (1-2 weeks max for serious building)
 
 **Code Editor:**
-- Cursor Free: $0 (~2,000 completions + 50 premium requests/month)
-- Cursor Pro: $20/month
+- Cursor Free: $0 (~2,000 completions + 50 premium requests/month, good for learning)
+- Cursor Pro: $20/month (unlimited basic completions, recommended)
+- Cursor Pro+: $60/month (truly unlimited, for heavy users)
 - 2-week free Pro trial included
 
 **Version Control:**
 - GitHub: $0 (free for individuals and open source)
 
+**Realistic AI Tool Budget:**
+- Learning path: $0 (free tiers, 2-4 weeks max)
+- Minimal path: $240/year (one AI assistant)
+- Recommended path: $480/year (AI assistant + Cursor Pro)
+- Power user path: $680/year (AI assistant + Cursor Pro+)
+
 ### Infrastructure Costs (Per project, scales with usage)
 
 **Path 1: Static Site**
 - Hosting (Netlify/Vercel): $0 (free tier covers most use cases)
-- Domain: $10-15/year
-- **Total: ~$12/year**
+- Domain: $13-15/year (optional - can use free subdomain)
+- **Infrastructure only: ~$0-15/year**
+- **With AI tools (realistic): ~$240-255/year**
 
 **Path 2: Web App with Database (Most Common)**
 
 *Starting out (0-100 users):*
 - Supabase: $0 (free tier: 500MB database, 2 active projects)
 - Vercel: $0 (free tier: 100GB bandwidth, unlimited projects)
-- Domain: $10-15/year
-- **Total: ~$12/year**
+- Domain: $13-15/year (optional initially)
+- **Infrastructure only: ~$0-15/year**
+- **With AI tools (realistic): ~$240-255/year (minimal) or $480-495/year (recommended)**
 
 *With growth (100-10,000+ users):*
-- Supabase Pro: $25/month (8GB database, auto-scaling, daily backups)
-- Vercel: $0 (hobby tier sufficient) or $20/month (Pro if needed)
-- Domain: $10-15/year
-- **Total: ~$300-550/year**
+- Supabase Pro: $300/year ($25/month: 8GB database, auto-scaling, daily backups)
+- Vercel: $0-240/year (hobby tier often sufficient; Pro $20/month if needed)
+- Domain: $13-15/year
+- **Infrastructure: ~$313-555/year**
+- **With AI tools: ~$553-795/year (minimal) or $793-1,035/year (recommended)**
 
 **Path 3: Python Data App**
-- Railway: $5 trial credit (30 days), then ~$5-10/month
-- Oracle Cloud: $0 (free tier alternative)
-- Domain: $10-15/year
-- **Total: ~$60-135/year** (Railway) or ~$12/year (Oracle free tier)
+- Railway: $5 trial (30 days), then ~$60-120/year ($5-10/month)
+- Oracle Cloud: $0 (free tier alternative, good for learning)
+- Domain: $13-15/year (optional initially)
+- **Infrastructure only: ~$0-135/year**
+- **With AI tools (realistic): ~$240-375/year (minimal) or $480-615/year (recommended)**
 
 ### Add-On Services (When You Need Them)
 
 **Email (Transactional):**
-- Resend: $0 (free tier: 3,000 emails/month), Pro at $20/month (50,000 emails)
+- Resend: $0 (free tier: 3,000 emails/month) or Pro $240/year ($20/month for 50,000 emails)
 - SendGrid: Similar pricing structure
 
 **Payments:**
 - Stripe: 2.9% + $0.30 per transaction (no monthly fee)
-- $15 chargeback fee
+- $15 chargeback fee (per disputed transaction)
 
 **File Storage (if beyond Supabase):**
 - Included in Supabase free tier (1GB)
 - Supabase Pro includes 100GB
+- Usually sufficient for most apps
 
-### The $0 Path to Start
+### The Learning Path (Free Tiers)
 
-You can genuinely start with $0 and only pay for a domain (~$12) when you're ready to go live:
+**You CAN start with $0 - but only for 2-4 weeks of learning:**
 
 **Free tier everything:**
-- Claude or ChatGPT (free tier for learning)
-- Cursor (free tier: 2,000 completions/month)
-- GitHub (free)
-- Vercel or Netlify hosting (free)
-- Supabase (free tier: 500MB)
-- Use a free subdomain (yourapp.vercel.app) - skip buying domain until validated
+- Claude or ChatGPT (free tier: limited, good for tutorials)
+- Cursor (free tier: 2,000 completions/month + 2-week Pro trial)
+- GitHub (free forever)
+- Vercel or Netlify hosting (free forever for hobby use)
+- Supabase (free tier: 500MB, good for learning)
+- Use a free subdomain (yourapp.vercel.app) - skip buying domain initially
 
-**When to upgrade:**
-- AI Assistant: When you hit free tier limits (usually after 2-3 weeks of daily use)
-- Cursor: When free completions run out (if building intensively)
-- Supabase: When you exceed 500MB database or need more than 2 projects
-- Domain: When you want professional branding (can start with free subdomain)
+**Reality check:** Free tiers are genuinely useful for learning and following Chapter 4's tutorial. But for building a real product daily, you'll need paid AI tools within 2-4 weeks.
+
+**When to upgrade (inevitable for real building):**
+- AI Assistant: After 1-2 weeks of daily use (free tier too limiting) - **Budget $20/month**
+- Cursor: After 2-3 weeks if building intensively - **Budget $20/month** (optional but recommended)
+- Domain: When you want professional branding - **~$13/year**
+- Supabase/Infrastructure: Only when you exceed free limits (can take months/years)
 
 ### Realistic Monthly Costs
 
-**Learning phase (Month 1-2):**
-- $0-20 (can use all free tiers)
+**Learning phase (Weeks 1-4):**
+- $0 (free tiers only - enough for tutorials and learning)
 
-**Building phase (Month 3-6):**
-- $20-40 (Claude/ChatGPT Pro, maybe Cursor Pro, domain)
+**Building phase (Months 2-6):**
+- $20 minimum (AI assistant - essential)
+- $40 recommended (AI assistant + Cursor Pro)
+- Infrastructure stays free during building
 
-**Launched with users (Month 6+):**
-- $40-65 (AI tools + infrastructure + domain, only if you exceed free tiers)
+**Launched with early users (Months 6-12):**
+- $40-60 (AI tools + maybe domain)
+- Infrastructure usually stays free (under 100 users)
 
-**Important:** These are maximums. Many successful apps run on free tiers for months or even years.
+**Growing product (100+ users):**
+- $45-85/month (AI tools + Supabase Pro $25 + domain)
+- Add Vercel Pro ($20) only if needed
+
+**Bottom line:** Budget $20-40/month for AI tools as essential operating costs. Infrastructure often stays free much longer than you expect.
 
 ---
 
