@@ -9,6 +9,8 @@ merger = PdfWriter()
 # List of PDFs to combine in order
 pdfs = [
     "individual_pdfs/README.pdf",
+    "individual_pdfs/PATHWAYS.pdf",
+    "individual_pdfs/QUICK-START.pdf",
     "individual_pdfs/Chapter-01-introduction.pdf",
     "individual_pdfs/Chapter-02-understanding-apps.pdf",
     "individual_pdfs/Chapter-03-choosing-stack.pdf",
@@ -17,8 +19,7 @@ pdfs = [
     "individual_pdfs/Chapter-06-debugging.pdf",
     "individual_pdfs/Chapter-07-testing.pdf",
     "individual_pdfs/Chapter-08-whats-next.pdf",
-    "individual_pdfs/GLOSSARY.pdf",
-    "individual_pdfs/QUICK-START.pdf"
+    "individual_pdfs/GLOSSARY.pdf"
 ]
 
 print("Combining PDFs...")

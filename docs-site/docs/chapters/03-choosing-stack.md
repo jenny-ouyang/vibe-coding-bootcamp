@@ -1,3 +1,9 @@
+---
+id: 03-choosing-stack
+title: Chapter 3 - Choosing Your Stack
+sidebar_position: 3
+---
+
 # Chapter 3: Choosing Your Stack
 
 > "The best tools are the ones you'll actually use. The best stack is the one you can ship with."

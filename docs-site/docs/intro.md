@@ -1,10 +1,16 @@
+---
+id: intro
+title: Introduction
+sidebar_position: 1
+---
+
 # Vibe Coding from Zero: Build AI Products Without Coding
 
 > **Ship your first AI product in 7 days — no programming experience required**
 
-⭐ **Free comprehensive guide** to building with AI assistance  
-📚 **60+ pages** of step-by-step tutorials and frameworks  
-🚀 **Battle-tested** by builders who shipped real products  
+⭐ **Free comprehensive guide** to building with AI assistance
+📚 **60+ pages** of step-by-step tutorials and frameworks
+🚀 **Battle-tested** by builders who shipped real products
 💡 **Created by Jenny Ouyang** | [Build to Launch Newsletter](https://buildtolaunch.substack.com)
 
 ## What You'll Learn
@@ -29,7 +35,7 @@ By the end, you'll be able to build:
 
 ### Not required:
 - ❌ Computer science degree
-- ❌ Previous programming experience  
+- ❌ Previous programming experience
 - ❌ Understanding of how computers work
 - ❌ Math skills beyond basic arithmetic
 
@@ -39,45 +45,30 @@ Traditional coding courses teach you syntax, algorithms, and computer science th
 
 **Key insight:** The bottleneck isn't writing code anymore — it's knowing what to build and how to describe it clearly. That's where your domain expertise becomes your superpower.
 
-## How to Use This Guide
-
-🗺️ **Not sure where to start?** See [**PATHWAYS.md**](PATHWAYS.md) - Choose your learning path based on your experience level, goals, and learning style.
-
-⚡ **Need a quick answer?** Check the [**micro-guides/**](micro-guides/) folder for focused, 1-2 page guides:
-- [Deploy in 10 Minutes](micro-guides/deploy-in-10-minutes.md)
-- [Fix 5 Common Errors](micro-guides/fix-5-common-errors.md)
-- [Auth Quick Reference](micro-guides/auth-quick-reference.md)
-- [Debugging Checklist](micro-guides/debugging-checklist.md)
-- [Idea to Live URL](micro-guides/idea-to-live-url.md)
-
-🌐 **Prefer interactive docs?** Visit the [**Docusaurus site**](docs-site/) - Full searchable documentation with better navigation.
-
----
-
 ## Guide Contents
 
-### [Chapter 1: The Vibe Coding Method](01-introduction.md)
+### [Chapter 1: The Vibe Coding Method](chapters/01-introduction)
 Why AI changes everything, who this is for, and what you'll be able to build. Includes real success stories from non-technical builders.
 
-### [Chapter 2: Understanding the Shape of Apps](02-understanding-apps.md)
+### [Chapter 2: Understanding the Shape of Apps](chapters/02-understanding-apps)
 Just enough mental models to direct AI effectively. Learn to think in shapes and flows, not code and syntax. Includes visual diagrams.
 
-### [Chapter 3: Choosing Your Stack](03-choosing-stack.md)
+### [Chapter 3: Choosing Your Stack](chapters/03-choosing-stack)
 Clear, opinionated recommendations for tools and technologies. No endless research — practical choices that work. Includes decision tree and pricing guide.
 
-### [Chapter 4: Your First AI-Built App in One Hour](04-tutorial.md)
+### [Chapter 4: Your First AI-Built App in One Hour](chapters/04-tutorial)
 Learn the ONE PROMPT method. Build a real bookmark manager by describing what you want, not following 28 steps. Deploy it live in 60 minutes.
 
-### [Chapter 5: Common Building Blocks](05-building-blocks.md)
+### [Chapter 5: Common Building Blocks](chapters/05-building-blocks)
 Reference guide for typical features: authentication, databases, file uploads, payments, email, deployment. Each with example prompts.
 
-### [Chapter 6: When Things Break](06-debugging.md)
+### [Chapter 6: When Things Break](chapters/06-debugging)
 Debugging through conversation, not through code. How to read error messages and work with AI to fix issues.
 
-### [Chapter 7: How to Know It Actually Works](07-testing.md)
+### [Chapter 7: How to Know It Actually Works](chapters/07-testing)
 Simple testing strategies for non-technical builders. Catch obvious problems before users do, without writing unit tests.
 
-### [Chapter 8: What's Next](08-whats-next.md)
+### [Chapter 8: What's Next](chapters/08-whats-next)
 Graduating to more complex builds, joining the community, and accessing advanced resources.
 
 ## Real Results from Real People
@@ -99,13 +90,6 @@ Graduating to more complex builds, joining the community, and accessing advanced
 
 ## How to Use This Guide
 
-### Option 1: Read Online (GitHub)
-Browse the chapters directly in this repository. Each chapter is a separate markdown file you can read in order.
-
-### Option 2: Download PDF
-Get the complete guide as a professionally formatted PDF from [GitHub Releases](https://github.com/jenny-ouyang/vibe-coding-bootcamp/releases) (free download).
-
-### Option 3: Follow Along
 The best way to learn is by doing. Open the guide alongside your code editor and build the projects as you read.
 
 ## Quick Start
@@ -136,26 +120,25 @@ The best way to learn is by doing. Open the guide alongside your code editor and
 ## Community & Support
 
 ### Join the Newsletter
-Get weekly AI building tips, prompt templates, and real builder interviews:  
+Get weekly AI building tips, prompt templates, and real builder interviews:
 📧 **[Build to Launch Newsletter](https://buildtolaunch.substack.com)**
 
 ### Share Your Builds
 Built something with this guide? Share it!
 - Share on [Bluesky](https://bsky.app/profile/jenny-ouyang.bsky.social)
-- Open a discussion in this repo
 - Submit your story to be featured
 
 ### Get Help
 - 💬 Open an issue if you find broken links or confusing sections
 - 🤝 Start a discussion to ask questions
-- 📖 Check the [Glossary](GLOSSARY.md) for unfamiliar terms
+- 📖 Check the [Glossary](/docs/glossary) for unfamiliar terms
 
 ## Advanced Resources
 
 Ready to go deeper? Check out the **Vibe Coding Builder's Technical Playbook** for:
 - Advanced architecture patterns
 - Database design deep dives
-- Performance optimization strategies  
+- Performance optimization strategies
 - Battle-tested prompt libraries
 - Real code from shipped products
 
@@ -168,33 +151,6 @@ Available to [Build to Launch](https://buildtolaunch.substack.com) premium subsc
 Her mission: help domain experts turn their ideas into reality without spending years learning to code.
 
 🔗 [Newsletter](https://buildtolaunch.substack.com) | [Bluesky](https://bsky.app/profile/jenny-ouyang.bsky.social) | [LinkedIn](https://www.linkedin.com/in/jenny-ouyang/)
-
-## Contributing
-
-Found a typo? Have a suggestion? Want to add an example?
-
-1. Fork this repository
-2. Make your changes
-3. Submit a pull request
-
-All contributions welcome!
-
-## License
-
-This guide is released under [MIT License](LICENSE). Free to use, share, and modify with attribution.
-
-## Changelog
-
-- **v1.0** (December 2025) - Initial release
-- See [Releases](https://github.com/jenny-ouyang/vibe-coding-bootcamp/releases) for version history
-
----
-
-## Keywords for Search
-
-*This section helps this guide be discovered by people searching for these topics:*
-
-build ai product without coding, claude ai tutorial, cursor ide guide, ai-assisted development, no-code ai development, ship products with ai, non-technical founder guide, domain expert software development, vibe coding, ai product development for beginners, chatgpt coding tutorial, build web apps with ai, ai-powered product development, how to build software without programming, ai for non-programmers
 
 ---
 

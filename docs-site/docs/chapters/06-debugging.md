@@ -1,3 +1,9 @@
+---
+id: 06-debugging
+title: Chapter 6 - When Things Break
+sidebar_position: 6
+---
+
 # Chapter 6: When Things Break
 
 > "Bugs are not failures. They're conversations with your code about what it needs."

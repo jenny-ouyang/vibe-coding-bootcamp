@@ -1,3 +1,9 @@
+---
+id: 02-understanding-apps
+title: Chapter 2 - Understanding the Shape of Apps
+sidebar_position: 2
+---
+
 # Chapter 2: Understanding the Shape of Apps
 
 > "You don't need to know how electricity works to use a light switch. You don't need to know how engines work to drive a car. And you don't need to know how code works to build an app."
