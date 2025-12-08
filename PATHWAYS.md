@@ -84,14 +84,13 @@ This guide works for different people with different goals. **Don't read it cove
 **If you answered A above, start here regardless of your goal:**
 
 ```
-1. QUICK-START.md (5 min) ← Get context
-2. Chapter 4: Tutorial (1 hour) ← Build something immediately
-3. Chapter 1: Method (15 min) ← Now understand what you just did
-4. Chapter 2: Apps (20 min) ← Understand the architecture
-5. Chapter 5: Building Blocks ← Reference as needed
-6. Chapter 6: Debugging ← When things break
-7. Chapter 7: Testing ← Before showing anyone
-8. Chapter 8: What's Next ← Where to go from here
+1. Chapter 4: Tutorial (1 hour) ← Build something immediately
+2. Chapter 1: Method (15 min) ← Now understand what you just did
+3. Chapter 2: Apps (20 min) ← Understand the architecture
+4. Chapter 5: Building Blocks ← Reference as needed
+5. Chapter 6: Debugging ← When things break
+6. Chapter 7: Testing ← Before showing anyone
+7. Chapter 8: What's Next ← Where to go from here
 ```
 
 **Why this order?** You need proof you can do this BEFORE learning theory. Building first gives you context for everything else.
@@ -112,12 +111,11 @@ This guide works for different people with different goals. **Don't read it cove
 
 ```
 1. Chapter 1: Method (15 min) ← Understand the vibe coding approach
-2. QUICK-START.md (5 min) ← Set up environment
-3. Chapter 4: Tutorial (1 hour) ← Build end-to-end
-4. Chapter 5: Building Blocks ← Reference when adding features
-5. Chapter 7: Testing (20 min) ← Don't skip this
-6. Chapter 6: Debugging ← Bookmark for when things break
-7. Chapter 8: What's Next ← Plan your next build
+2. Chapter 4: Tutorial (1 hour) ← Build end-to-end
+3. Chapter 5: Building Blocks ← Reference when adding features
+4. Chapter 7: Testing (20 min) ← Don't skip this
+5. Chapter 6: Debugging ← Bookmark for when things break
+6. Chapter 8: What's Next ← Plan your next build
 ```
 
 **Skip:** Chapter 2 (you probably know this), Chapter 3 (use what tutorial uses)
@@ -159,7 +157,7 @@ This guide works for different people with different goals. **Don't read it cove
 Start with your specific problem:
 
 Stuck on authentication? → Chapter 5 (Authentication section)
-Deployment failing? → Chapter 5 (Deployment section) + QUICK-START
+Deployment failing? → Chapter 5 (Deployment section)
 Things breaking? → Chapter 6 (entire chapter)
 Don't know if it's ready? → Chapter 7
 Not sure what to build next? → Chapter 8
@@ -182,14 +180,13 @@ Choosing between frameworks? → Chapter 3
 **You have an idea. Here's the fastest path to live URL:**
 
 ```
-1. QUICK-START.md (5 min) ← Environment setup
-2. Chapter 4: Tutorial (1 hour) ← Learn the pattern
-3. Modify tutorial to your idea:
+1. Chapter 4: Tutorial (1 hour) ← Learn the pattern (includes environment setup)
+2. Modify tutorial to your idea:
    - Keep the structure (Next.js, Supabase, Vercel)
    - Change the feature (bookmarks → your idea)
    - Deploy when core feature works
-4. Chapter 5: Building Blocks ← Add features as needed
-5. Chapter 7: Testing (15 min) ← Before announcing
+3. Chapter 5: Building Blocks ← Add features as needed
+4. Chapter 7: Testing (15 min) ← Before announcing
 ```
 
 **Use as reference:**
@@ -267,13 +264,11 @@ Phase 4 (Ongoing):
 
 **Your modified path (regardless of experience):**
 ```
-1. README.md (10 min) ← Overview
-2. Chapter 1: Method (15 min) ← Philosophy
-3. Chapter 2: Apps (20 min) ← Architecture
-4. Chapter 3: Stack (20 min) ← Decisions
-5. GLOSSARY.md (10 min) ← Terminology
-6. Chapter 4: Tutorial (1.5 hours) ← Now build with full context
-7. Chapter 5-8 sequentially
+1. Chapter 1: Method (15 min) ← Philosophy
+2. Chapter 2: Apps (20 min) ← Architecture
+3. Chapter 3: Stack (20 min) ← Decisions
+4. Chapter 4: Tutorial (1.5 hours) ← Now build with full context
+5. Chapter 5-8 sequentially
 ```
 
 **Your motto:** "I want to understand the system before I touch it."
@@ -495,8 +490,7 @@ Phase 4 (Ongoing):
 
 ```
 Day 1 (1 hour):
-- QUICK-START.md (5 min)
-- Chapter 4 up to "Deploy Your App" (55 min)
+- Chapter 4 up to "Deploy Your App" (1 hour)
 
 Day 2 (1 hour):
 - Finish Chapter 4 deployment
