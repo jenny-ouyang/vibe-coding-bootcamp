@@ -456,7 +456,7 @@ Pick one. I recommend Claude because:
 - Stronger at code generation
 - (You're already reading this in Claude!)
 
-**Pricing (verified December 2024):**
+**Pricing (verified December 2025):**
 - Claude Pro: $20/month (or $17/month billed annually at $200/year)
 - ChatGPT Plus: $20/month (monthly billing only)
 - Free tiers available for both (limited usage, good for initial learning)
@@ -471,7 +471,7 @@ Why Cursor specifically:
 - Can make changes across multiple files
 - Accepts natural language commands
 
-**Pricing (verified December 2024):**
+**Pricing (verified December 2025):**
 - Free tier: ~2,000 completions + 50 premium requests/month (enough for learning)
 - 2-week Pro trial included
 - Pro: $20/month (unlimited basic completions + priority access)
@@ -564,7 +564,7 @@ Perfect choice paralysis beats imperfect shipped product every time. Choose and 
 
 ---
 
-## Complete Pricing Breakdown (Verified December 2024)
+## Complete Pricing Breakdown (Verified December 2025)
 
 Understanding real costs helps you plan. Here's everything broken down honestly:
 

@@ -71,7 +71,7 @@ USER EXPERIENCE:
 
 TECHNICAL REQUIREMENTS:
 Stack:
-- Next.js 14 with App Router
+- Next.js with App Router
 - TypeScript
 - Tailwind CSS for styling
 - Supabase for database
